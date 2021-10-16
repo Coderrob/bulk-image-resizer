@@ -1,0 +1,8 @@
+{
+  "dimensions": {
+    "height": 400,
+    "width": 400
+  },
+  "inputDir": "E:\\image-resizer\\imagework\\bodies\\",
+  "outputDir": "E:\\image-resizer\\imagework\\generated\\"
+}
